@@ -1,0 +1,9 @@
+# Datasets
+\data 
+ 
+# Documents
+\docs 
+
+.ipynb_checkpoints\
+outputs/
+logs/
