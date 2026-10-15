@@ -114,7 +114,6 @@ The report describes this work as being in the simulation and development stage.
 | Crop-image processing | Pipeline tested on datasets and drone footage |
 | Crop classification model | Training/evaluation reported; deployment integration remains a goal |
 | PSO-based multi-drone coordination | In development / simulation |
-| Solar-powered autonomous charging | Roadmap concept |
 
 This table reflects the supplied project report and should be updated as development continues.
 
@@ -124,13 +123,8 @@ The repository structure is intentionally being kept as it currently stands whil
 
 - [`navigation/`](navigation/) — navigation and autonomous-flight work.
 - [`notebooks/`](notebooks/) — exploratory and development notebooks.
-- [`.gitignore`](.gitignore) — files excluded from version control.
 
 This README does not assume that separate CAD, electronics, swarm-simulation, or documentation directories already exist.
-
-## Project documentation
-
-The EPICS final report covers system architecture, mechanical design, component selection, prototype assembly, initial flight tests, software progress, and the development roadmap. As the repository evolves, implementation details and test evidence should take precedence over high-level plans in the report.
 
 ## Current priorities
 
@@ -139,7 +133,6 @@ The EPICS final report covers system architecture, mechanical design, component 
 - Document wiring, power distribution, and component interfaces.
 - Integrate perception workloads with the companion computer and measure onboard performance.
 - Continue PSO simulation and define measurable multi-drone validation criteria.
-- Develop and test the charging-station concept before describing it as operational.
 
 ## Team and project context
 
