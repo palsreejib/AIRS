@@ -31,7 +31,6 @@ This repository is intended to document the complete engineering system—not on
 | Companion computing | Raspberry Pi 4B for higher-level mission logic, data handling, and vision workloads |
 | Perception | Image-processing and machine-learning experiments for visual crop-stress indicators |
 | Autonomy and coordination | Waypoint missions, simulation-based testing, and PSO research for multi-drone coverage |
-| Sustainable operations | Solar-powered charging is part of the roadmap, not a completed capability |
 
 ## Mechanical design
 
@@ -40,12 +39,12 @@ The project uses a DJI F550 / Q550-class hexacopter frame. Mechanical work docum
 <p align="center">
   <img src="airs-frame-cad.jpg" alt="F550 hexacopter frame CAD drawing from the project report" width="76%">
 </p>
-<p align="center"><em>Hexacopter frame design documented in the project report.</em></p>
+<p align="center"><em>Hexacopter frame design.</em></p>
 
 <p align="center">
   <img src="airs-payload-cad.jpg" alt="Custom payload compartment CAD drawing from the project report" width="64%">
 </p>
-<p align="center"><em>Payload-compartment design documented in the project report.</em></p>
+<p align="center"><em>Payload-compartment design.</em></p>
 
 ## Electronics and embedded systems
 
@@ -78,12 +77,12 @@ The development path moves from a manually piloted aircraft toward repeatable au
 <p align="center">
   <img src="airs-video-flight.jpg" alt="A.I.R.S. prototype captured from the uploaded project video during testing" width="78%">
 </p>
-<p align="center"><em>Real project footage from the uploaded video.</em></p>
+<p align="center"><em>Real project footage from test flight.</em></p>
 
 <p align="center">
   <img src="airs-mission-planner.jpg" alt="Mission Planner ground-station screenshot included in the project report" width="88%">
 </p>
-<p align="center"><em>Ground-station view included in the project report.</em></p>
+<p align="center"><em>Ground-station view.</em></p>
 
 ## Crop-health perception
 
